@@ -3,4 +3,5 @@ Human Intention Recognition module for Human Aware Planning (https://lamor.fer.h
 
 My main contributions are in HumanIntentionRecognizer, HumanIntentionRecognition, HIRutils and main.cpp files.
 
-Written for the SafeLog project and needs its FMS files to work properly.
+Written for the SafeLog project (http://safelog-project.eu/) and needs its FMS files which are currently not publicly available to work properly.
+
